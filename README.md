@@ -33,7 +33,7 @@ NoteNoir est une application de gestion de notes minimaliste avec une interface 
 
 ```
 # Cloner le repository
-git clone https://github.com/votre-username/NoteNoir.git
+git clone https://github.com/SALAHmdk/Notes.git
 
 # Naviguer dans le répertoire
 cd NoteNoir
